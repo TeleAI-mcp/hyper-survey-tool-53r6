@@ -1,2 +1,3 @@
-# hyper-survey-tool-53r6
-Repository to test GitHub automation for issue management
+# Hyper Survey Tool 53R6
+
+A repository to test GitHub automation for issue management.
